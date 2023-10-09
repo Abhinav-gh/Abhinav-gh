@@ -2,7 +2,7 @@
 I am Abhinav!
 
 
-
+⚡ Fun fact: I wanted to try this out: ⬇️
 ![Visitor Count](https://profile-counter.glitch.me/{Abhinav-gh}/count.svg)
 
 <!--
