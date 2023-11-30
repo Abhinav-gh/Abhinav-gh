@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Abhinav!
-I am currently in second year and am passionate about learning new technologies.
+I am currently in second year ECE student and am passionate about learning new technologies.
 
 ⚡ Fun fact: I wanted to try this out: ➡️
 ![Visitor Count](https://profile-counter.glitch.me/{Abhinav-gh}/count.svg)
