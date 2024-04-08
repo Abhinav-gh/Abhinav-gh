@@ -1,9 +1,18 @@
-### Hi there 👋
-I am Abhinav!
-I am currently a second year ECE student and am passionate about learning new technologies.
+<h1 align="center"> Hi there 👋, I am Abhinav Deshpande </h1>
+<h3 align = "center"> A second year ECE undergrad who is passionate about learning new technologies! </h3>
 
-⚡ Fun fact: I wanted to try this out: ➡️
+💫 About Me:
+
+- 🎓 I'm a second year ECE undergrad at IIIT Bangalore.   
+
+- 🌱 I’m currently learning *interesting stuff!*
+
+- 📫 How to reach me *Abhinav.Deshpande@iiitb.ac.in*
+  
+- ⚡ Fun fact: I wanted to try this out: ➡️ 
 ![Visitor Count](https://profile-counter.glitch.me/{Abhinav-gh}/count.svg)
+
+
 
 <!--
 **Abhinav-gh/Abhinav-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
