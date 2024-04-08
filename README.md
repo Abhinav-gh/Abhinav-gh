@@ -8,8 +8,11 @@
 - 🌱 I’m currently learning *interesting stuff!*
 
 - 📫 How to reach me *Abhinav.Deshpande@iiitb.ac.in*
+  ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-deshpande-97495a24b/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() 
   
-- ⚡ Fun fact: I wanted to try this out: ➡️ 
+⚡ Fun fact: I wanted to try this out: ➡️ 
 ![Visitor Count](https://profile-counter.glitch.me/{Abhinav-gh}/count.svg)
 
 
