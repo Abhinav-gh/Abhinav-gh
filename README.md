@@ -12,7 +12,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Abhinav-gh}/count.svg)
   ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-deshpande-97495a24b/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_abhinav__7_7/) 
 
   ## Github Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-gh&hide_border=true&layout=compact" align="center" /></div>  
