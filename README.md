@@ -8,12 +8,17 @@
 - 🌱 I’m currently learning *interesting stuff!*
 
 - 📫 How to reach me *Abhinav.Deshpande@iiitb.ac.in*
+- ⚡ Fun fact: I wanted to try this out: ➡️ Profile Views 
+![Visitor Count](https://profile-counter.glitch.me/{Abhinav-gh}/count.svg)
   ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-deshpande-97495a24b/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() 
-  
-⚡ Fun fact: I wanted to try this out: ➡️ 
-![Visitor Count](https://profile-counter.glitch.me/{Abhinav-gh}/count.svg)
+
+  ## Github Stats
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-gh&hide_border=true&layout=compact" align="center" /></div>  
+
+
+
 
 
 
