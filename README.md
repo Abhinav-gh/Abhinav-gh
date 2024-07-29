@@ -15,7 +15,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_abhinav__7_7/) 
 
   ## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-gh&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-gh&hide_border=true&count_private=true&layout=compact&langs_count=8" align="center" /></div>  
 
 
 
