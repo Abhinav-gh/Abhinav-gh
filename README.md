@@ -1,3 +1,9 @@
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Abhinav-gh/Abhinav-gh/blob/main/header.png"></div>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playwrite+Australia+SA&size=30&duration=4500&pause=800&color=6F1FCE&center=true&vCenter=true&width=435&lines=Nice+to+meet+you!;Student+at+IIIT-Bangalore;Rock+lover!+%F0%9F%91%88(%E2%8C%92%E2%96%BD%E2%8C%92)%F0%9F%91%89" alt="Typing SVG" /></a>
+</div>
+
 <h1 align="center"> Hi there 👋, I am Abhinav Deshpande </h1>
 <h3 align = "center"> A third year ECE undergrad who is passionate about learning new technologies! </h3>
 
