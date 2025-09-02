@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center"> Hi there 👋, I am Abhinav Deshpande </h1>
-<h3 align = "center"> A third year ECE undergrad who is passionate about learning new technologies! </h3>
+<h3 align = "center"> A pre-final year ECE undergrad who is passionate about learning new technologies! </h3>
 
 💫 About Me:
 
