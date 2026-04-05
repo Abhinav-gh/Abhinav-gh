@@ -9,7 +9,7 @@
 
 💫 About Me:
 
-- 🎓 I'm a third year ECE undergrad at IIIT Bangalore.   
+- 🎓 I'm a pre-final year ECE undergrad at IIIT Bangalore.   
 
 - 🌱 I’m currently learning *interesting stuff!*
 - 👯 I’m looking to collaborate on *projects and Hackathons*
